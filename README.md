@@ -1,4 +1,4 @@
-Hi, I'm Rohin Gupta 👋
+# Hi, I'm Rohin Gupta 👋
 Backend Software Engineer | Java, C++, Javascript/Node.js, Python  
 Building production-ready systems with performance and clarity in mind  
 Seeking mid-level backend roles in NYC or remote
@@ -14,6 +14,6 @@ Seeking mid-level backend roles in NYC or remote
 - [Chess Game](https://github.com/rohingupta/chess-game): 2-player interactive board with game logic
 - [Digit Recognizer](https://github.com/rohingupta/digit-recognizer): ML project using Navie Bayes classifier to recognize digits
 - [MyMalloc](https://github.com/rohingupta/my-malloc): Manual memory allocator in C
-- [NetFileServer] (https://github.com/Rohin97/net-file-server): A file server to open, read, write, close files remotely and API for client to interact with server.
+- [NetFileServer](https://github.com/Rohin97/net-file-server): A file server to open, read, write, close files remotely and API for client to interact with server.
 
 📫 Reach me at rohin.prgr@gmail.com
