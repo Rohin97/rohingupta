@@ -1,5 +1,5 @@
 # Hi, I'm Rohin Gupta 👋
-Backend Software Engineer | Java, C++, Javascript/Node.js, Python  
+Backend Software Engineer | Java, C++, JavaScript/Node.js, Python  
 Building production-ready systems with performance and clarity in mind  
 Seeking mid-level backend roles in NYC or remote
 
