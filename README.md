@@ -10,7 +10,7 @@ Seeking mid-level backend roles in NYC or remote
 - Other: System Design, APIs, ML scripting, Network analysis
 
 # Highlighted Projects
-- [Expense Tracker API](https://github.com/Rohin97/expense-tracker-api): Backend API to track, categorize and summarize user expenses. Built and deployed for users and developers.
+- [Expense Tracker API](https://github.com/Rohin97/expense-tracker-api): Backend API to track, categorize and summarize user expenses. Built and deployed for users and developers
 - [Job Tracker Application](https://github.com/Rohin97/job-seat): End-to-end job application manager with API, DB, and Chrome extension
 - [Chess Game](https://github.com/Rohin97/chess): 2-player interactive board with game logic
 - [Digit Recognizer](https://github.com/Rohin97/digit-recognition): ML project using Navie Bayes classifier to recognize digits
